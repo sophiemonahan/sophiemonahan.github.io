@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Hello</h1>
-<p>This is Sophie's business website.</p>
+<p>This is Sophie's website.</p>
 </body>
 </html>
